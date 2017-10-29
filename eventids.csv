@@ -1,0 +1,16 @@
+EventID ,Meaning,Type
+0,Initialize the source,Information
+1001,Successfully removed a user from the group,SuccessAudit
+1002,Successfully disabled user,SuccessAudit
+1003,Successfully removed a nested group from the group,SuccessAudit
+2001,Failed to remove a user from the group,Warning
+2002,Failed to disable user,Warning
+2003,Failed to remove a nested group from the group,Warning
+3001,Found a user in the group but configured to not remove,Information
+3002,Configured not to disable user,Information
+3003,Found a nested group in the group but configured to not remove,Information
+3004,Groups exists in csv input file but not in AD,Information
+3005,Script ran without finding problems,Information
+9001,Unknown user removal from group condition,FailureAudit
+9002,Unknown user disable condition,FailureAudit
+9003,Unknown nested group removal from group condition,FailureAudit

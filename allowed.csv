@@ -1,0 +1,14 @@
+Name,sid,group,Notes
+administrator,S-1-5-21-279999893-3181817387-295713216-500,Enterprise Admins,
+administrator,S-1-5-21-279999893-3181817387-295713216-500,Domain Admins,Default admin account
+administrator,S-1-5-21-279999893-3181817387-295713216-500,Administrators,
+administrator,S-1-5-21-279999893-3181817387-295713216-500,Enterprise Admins,
+administrator,S-1-5-21-279999893-3181817387-295713216-500,Group Policy Creator Owners,
+administrator,S-1-5-21-279999893-3181817387-295713216-500,Schema Admins,
+daniel,S-1-5-21-279999893-3181817387-295713216-1115,Administrators,
+daniel,S-1-5-21-279999893-3181817387-295713216-1115,Domain Admins,
+Domain Admins,S-1-5-21-279999893-3181817387-295713216-512,Administrators,Domain Admins is a member of Administrators
+Enterprise Admins,S-1-5-21-279999893-3181817387-295713216-519,Administrators,
+John Smith,S-1-5-21-279999893-3181817387-295713216-1114,WorkstationAdmins,John is allowed to admin workstations
+,S-1-5-21-279999893-3181817387-295713216-1115,Server_Admins,
+John Smith,S-1-5-21-279999893-3181817387-295713216-1114,BogusGroup,
