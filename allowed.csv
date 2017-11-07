@@ -5,10 +5,12 @@ administrator,S-1-5-21-279999893-3181817387-295713216-500,Administrators,
 administrator,S-1-5-21-279999893-3181817387-295713216-500,Enterprise Admins,
 administrator,S-1-5-21-279999893-3181817387-295713216-500,Group Policy Creator Owners,
 administrator,S-1-5-21-279999893-3181817387-295713216-500,Schema Admins,
-daniel,S-1-5-21-279999893-3181817387-295713216-1115,Administrators,
-daniel,S-1-5-21-279999893-3181817387-295713216-1115,Domain Admins,
+administrator,S-1-5-21-279999893-3181817387-295713216-500,Cert Publishers,
+administrator,S-1-5-21-279999893-3181817387-295713216-500,DnsAdmins,
 Domain Admins,S-1-5-21-279999893-3181817387-295713216-512,Administrators,Domain Admins is a member of Administrators
 Enterprise Admins,S-1-5-21-279999893-3181817387-295713216-519,Administrators,
-John Smith,S-1-5-21-279999893-3181817387-295713216-1114,WorkstationAdmins,John is allowed to admin workstations
-,S-1-5-21-279999893-3181817387-295713216-1115,Server_Admins,
-John Smith,S-1-5-21-279999893-3181817387-295713216-1114,BogusGroup,
+Eveything below here is more specific to your environment,S-1-5-21-279999893-3181817387-295713216-1114,Administrators,Eveything below here is more specific to your environment
+This is just text for you,S-1-5-21-279999893-3181817387-295713216-1115,Administrators,
+John Smith,S-1-5-21-279999893-3181817387-295713216-1114,WorkstationAdmins,Custom group specific to your environment should be added
+,S-1-5-21-279999893-3181817387-295713216-1115,Server_Admins,Custom group specific to your environment should be added
+John Smith,S-1-5-21-279999893-3181817387-295713216-1114,BogusGroup,Any groups that do not exist will create an error log
